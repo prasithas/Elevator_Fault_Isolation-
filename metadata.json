@@ -1,0 +1,6 @@
+{
+  "name": "Elevator Fault Isolation & Root Cause Analysis",
+  "description": "Autonomous fault detection, isolation, and evidence-based root cause analysis prototype for elevator maintenance decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
