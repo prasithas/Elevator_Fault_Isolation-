@@ -1,0 +1,6 @@
+Timestamp,Fault,Subsystem,Severity,Confidence,Possible Cause,Maintenance Action
+2026-11-02 16:31:50,Normal,No fault identified,Low,96.23,No fault pattern identified by the trained model.,Continue routine monitoring.
+2026-11-02 16:31:50,Motor fault,Motor,High,100.0,Unusual motor temperature or motor current pattern.,Request qualified technician inspection of the motor.
+2026-11-02 16:31:50,Bearing fault,Bearing,Medium,96.73,Unusual vibration pattern that may indicate bearing wear.,Request qualified technician inspection of the bearing.
+2026-11-02 16:31:50,Door fault,Door,High,99.97,Unusual door closing time or door sensor status.,Request qualified technician inspection of the door system.
+2026-11-02 16:31:50,Sensor fault,Sensor,Medium,100.0,Sensor readings may be inconsistent or abnormal.,Request qualified technician inspection of the sensor system.
